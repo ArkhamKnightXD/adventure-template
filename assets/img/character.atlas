@@ -1,0 +1,7 @@
+character.png
+size:512,32
+repeat:none
+goomba
+bounds:260,2,96,17
+little-mario
+bounds:2,2,256,17
